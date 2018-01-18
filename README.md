@@ -142,6 +142,6 @@ struts.xml中代码:
 控制台打印文本域中的信息:
 
 ![](./_image/2018-01-18-15-44-07.jpg)
-详细代码可查看:[]()
+详细代码可查看:[](https://github.com/wangwren/Struts-CKEditor/tree/master/CkeditorDemo)
 
 
