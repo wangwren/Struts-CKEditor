@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 188de949230d4cdf84903c990606c94e3c762453
 # 使用struts2完成ckeditor和ckeditor图片上传
 ckeditor版本ckeditor_4.8.0_full
 - 解压压缩包，将解压后的文件夹ckeditor直接拷贝至WebContent下
